@@ -1,9 +1,9 @@
 const contractAddress = "YOUR CONTRACT ADDRESS"; 
 const chain = 'rinkeby'; 
 
-const welcome_h1 = "🧰Under Construction🛠️";
+const welcome_h1 = "🧰 Under Construction 🛠️";
 const welcome_h2 = "Whitelist Coming Soon!";
-const welcome_p = 'W.A.G.M.I NFT Whitelist Coming Soon!';
+const welcome_p = 'W.A.G.M.I';
 const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
 const h1_presale_mint = "Pre-Sale Minting Open!!";
 const h1_public_mint = "Public Minting Open!!";
