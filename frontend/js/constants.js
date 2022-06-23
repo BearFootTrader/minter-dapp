@@ -1,5 +1,5 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "YOUR CONTRACT ADDRESS"; 
+const chain = 'rinkeby'; 
 
 const welcome_h1 = "We are All Going to Make It";
 const welcome_h2 = "Whitelist Coming Soon!";
