@@ -6,7 +6,7 @@ font-family: 'Rubik Moonrocks', cursive;
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: "Rubik+Moonrocks", sans-serif;
+  --font-primary: "Rubik Moonrocks", cursive;
   --font-secondary: "Arvo", serif;
   --font-code: "Roboto", monospace;
   --bg-color: #00163f;
